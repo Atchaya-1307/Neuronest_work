@@ -1,6 +1,6 @@
 from sentence_transformers import SentenceTransformer
 model = SentenceTransformer('all-MiniLM-L6-v2')  # Lightweight model
-text = "HELLO Atchaya"
+text = "HELLO Atch"
 embedding = model.encode(text)
 print(embedding)  # This is a NumPy array of shape (384,)
 print(f"Embedding shape: {embedding.shape}")  # Should print (384,)
