@@ -1,0 +1,221 @@
+[
+  {
+    "chapterNumber": "Preliminary",
+    "chapterTitle": "Preliminary",
+    "sections": [
+      {
+        "sectionNumber": "1",
+        "sectionContent": "Short title, extent and commencement."
+      }
+    ]
+  },
+  {
+    "chapterNumber": "I",
+    "chapterTitle": "General provisions",
+    "sections": [
+      { "sectionNumber": "2", "sectionContent": "Definitions." },
+      { "sectionNumber": "3", "sectionContent": "Receipt of written communications." },
+      { "sectionNumber": "4", "sectionContent": "Waiver of right to object." },
+      { "sectionNumber": "5", "sectionContent": "Extent of judicial intervention." },
+      { "sectionNumber": "6", "sectionContent": "Administrative assistance." }
+    ]
+  },
+  {
+    "chapterNumber": "II",
+    "chapterTitle": "Arbitration agreement",
+    "sections": [
+      { "sectionNumber": "7", "sectionContent": "Arbitration agreement." },
+      { "sectionNumber": "8", "sectionContent": "Power to refer parties to arbitration where there is an arbitration agreement." },
+      { "sectionNumber": "9", "sectionContent": "Interim measures, etc., by Court." }
+    ]
+  },
+  {
+    "chapterNumber": "III",
+    "chapterTitle": "Composition of arbitral tribunal",
+    "sections": [
+      { "sectionNumber": "10", "sectionContent": "Number of arbitrators." },
+      { "sectionNumber": "11", "sectionContent": "Appointment of arbitrators." },
+      { "sectionNumber": "11A", "sectionContent": "Power of Central Government to amend Fourth Schedule." },
+      { "sectionNumber": "12", "sectionContent": "Grounds for challenge." },
+      { "sectionNumber": "13", "sectionContent": "Challenge procedure." },
+      { "sectionNumber": "14", "sectionContent": "Failure or impossibility to act." },
+      { "sectionNumber": "15", "sectionContent": "Termination of mandate and substitution of arbitrator." }
+    ]
+  },
+  {
+    "chapterNumber": "IV",
+    "chapterTitle": "Jurisdiction of arbitral tribunals",
+    "sections": [
+      { "sectionNumber": "16", "sectionContent": "Competence of arbitral tribunal to rule on its jurisdiction." },
+      { "sectionNumber": "17", "sectionContent": "Interim measures ordered by arbitral tribunal." }
+    ]
+  },
+  {
+    "chapterNumber": "V",
+    "chapterTitle": "Conduct of arbitral proceedings",
+    "sections": [
+      { "sectionNumber": "18", "sectionContent": "Equal treatment of parties." },
+      { "sectionNumber": "19", "sectionContent": "Determination of rules of procedure." },
+      { "sectionNumber": "20", "sectionContent": "Place of arbitration." },
+      { "sectionNumber": "21", "sectionContent": "Commencement of arbitral proceedings." },
+      { "sectionNumber": "22", "sectionContent": "Language." },
+      { "sectionNumber": "23", "sectionContent": "Statements of claim and defence." },
+      { "sectionNumber": "24", "sectionContent": "Hearings and written proceedings." },
+      { "sectionNumber": "25", "sectionContent": "Default of a party." },
+      { "sectionNumber": "26", "sectionContent": "[Omitted.]" },
+      { "sectionNumber": "27", "sectionContent": "Court assistance in taking evidence." }
+    ]
+  },
+  {
+    "chapterNumber": "VI",
+    "chapterTitle": "Making of arbitral award and termination of proceedings",
+    "sections": [
+      { "sectionNumber": "28", "sectionContent": "Rules applicable to substance of dispute." },
+      { "sectionNumber": "29", "sectionContent": "Decision making by panel of arbitrators." },
+      { "sectionNumber": "29A", "sectionContent": "Time limit for arbitral award." },
+      { "sectionNumber": "29B", "sectionContent": "Fast track procedure." },
+      { "sectionNumber": "30", "sectionContent": "Settlement." },
+      { "sectionNumber": "31", "sectionContent": "Form and contents of arbitral award." },
+      { "sectionNumber": "31A", "sectionContent": "Regime for costs." },
+      { "sectionNumber": "32", "sectionContent": "Termination of proceedings." },
+      { "sectionNumber": "33", "sectionContent": "Correction and interpretation of award; additional award." }
+    ]
+  },
+  {
+    "chapterNumber": "VII",
+    "chapterTitle": "Recourse against arbitral award",
+    "sections": [
+      { "sectionNumber": "34", "sectionContent": "Application for setting aside arbitral awards." }
+    ]
+  },
+  {
+    "chapterNumber": "VIII",
+    "chapterTitle": "Finality and enforcement of arbitral awards",
+    "sections": [
+      { "sectionNumber": "35", "sectionContent": "Finality of arbitral awards." },
+      { "sectionNumber": "36", "sectionContent": "Enforcement." },
+      { "sectionNumber": "37", "sectionContent": "Appealable orders." },
+      { "sectionNumber": "38", "sectionContent": "Deposits." }
+    ]
+  },
+  {
+    "chapterNumber": "IX",
+    "chapterTitle": "Appeals",
+    "sections": []
+  },
+  {
+    "chapterNumber": "X",
+    "chapterTitle": "Miscellaneous",
+    "sections": [
+      { "sectionNumber": "39", "sectionContent": "Lien on arbitral award and deposits as to costs." },
+      { "sectionNumber": "40", "sectionContent": "Arbitration agreement not to be discharged by death of party thereto." },
+      { "sectionNumber": "41", "sectionContent": "Provisions in case of insolvency." },
+      { "sectionNumber": "42", "sectionContent": "Jurisdiction." },
+      { "sectionNumber": "42A", "sectionContent": "Confidentiality of information." },
+      { "sectionNumber": "42B", "sectionContent": "Protection of action taken in good faith." },
+      { "sectionNumber": "43", "sectionContent": "Limitations." }
+    ]
+  },
+  {
+    "chapterNumber": "IA",
+    "chapterTitle": "Arbitration Council of India",
+    "sections": [
+      { "sectionNumber": "43A", "sectionContent": "Definitions." },
+      { "sectionNumber": "43B", "sectionContent": "Establishment and incorporation of Arbitration Council of India." },
+      { "sectionNumber": "43C", "sectionContent": "Composition of Council." },
+      { "sectionNumber": "43D", "sectionContent": "Duties and functions of Council." },
+      { "sectionNumber": "43E", "sectionContent": "Vacancies, etc., not to invalidate proceedings of Council." },
+      { "sectionNumber": "43F", "sectionContent": "Resignation of Members." },
+      { "sectionNumber": "43G", "sectionContent": "Removal of Member." },
+      { "sectionNumber": "43H", "sectionContent": "Appointment of experts and constitution of Committees thereof." },
+      { "sectionNumber": "43-I", "sectionContent": "General norms for grading of arbitral institutions." },
+      { "sectionNumber": "43J", "sectionContent": "Norms for accreditation of arbitrators." },
+      { "sectionNumber": "43K", "sectionContent": "Depository of awards." },
+      { "sectionNumber": "43L", "sectionContent": "Power to make regulations by Council." },
+      { "sectionNumber": "43M", "sectionContent": "Chief Executive Officer." }
+    ]
+  },
+  {
+    "chapterNumber": "II-I",
+    "chapterTitle": "New York Convention Awards",
+    "sections": [
+      { "sectionNumber": "44", "sectionContent": "Definition." },
+      { "sectionNumber": "45", "sectionContent": "Power of judicial authority to refer parties to arbitration." },
+      { "sectionNumber": "46", "sectionContent": "When foreign award binding." },
+      { "sectionNumber": "47", "sectionContent": "Evidence." },
+      { "sectionNumber": "48", "sectionContent": "Conditions for enforcement of foreign awards." },
+      { "sectionNumber": "49", "sectionContent": "Enforcement of foreign awards." },
+      { "sectionNumber": "50", "sectionContent": "Appealable orders." },
+      { "sectionNumber": "51", "sectionContent": "Saving." },
+      { "sectionNumber": "52", "sectionContent": "Chapter II not to apply." },
+      { "sectionNumber": "53", "sectionContent": "Interpretation." }
+    ]
+  },
+  {
+    "chapterNumber": "II-II",
+    "chapterTitle": "Geneva Convention Awards",
+    "sections": [
+      { "sectionNumber": "54", "sectionContent": "Power of judicial authority to refer parties to arbitration." },
+      { "sectionNumber": "55", "sectionContent": "Foreign awards when binding." },
+      { "sectionNumber": "56", "sectionContent": "Evidence." },
+      { "sectionNumber": "57", "sectionContent": "Conditions for enforcement of foreign awards." },
+      { "sectionNumber": "58", "sectionContent": "Enforcement of foreign awards." },
+      { "sectionNumber": "59", "sectionContent": "Appealable orders." },
+      { "sectionNumber": "60", "sectionContent": "Savings." },
+      { "sectionNumber": "61", "sectionContent": "Application and scope." }
+    ]
+  },
+  {
+    "chapterNumber": "III",
+    "chapterTitle": "Conciliation",
+    "sections": [
+      { "sectionNumber": "62", "sectionContent": "Commencement of conciliation proceedings." },
+      { "sectionNumber": "63", "sectionContent": "Number of conciliators." },
+      { "sectionNumber": "64", "sectionContent": "Appointment of conciliators." },
+      { "sectionNumber": "65", "sectionContent": "Submission of statements to conciliator." },
+      { "sectionNumber": "66", "sectionContent": "Conciliator not bound by certain enactments." },
+      { "sectionNumber": "67", "sectionContent": "Role of conciliator." },
+      { "sectionNumber": "68", "sectionContent": "Administrative assistance." },
+      { "sectionNumber": "69", "sectionContent": "Communication between conciliator and parties." },
+      { "sectionNumber": "70", "sectionContent": "Disclosure of information." },
+      { "sectionNumber": "71", "sectionContent": "Co-operation of parties with conciliator." },
+      { "sectionNumber": "72", "sectionContent": "Suggestions by parties for settlement of dispute." },
+      { "sectionNumber": "73", "sectionContent": "Settlement agreement." },
+      { "sectionNumber": "74", "sectionContent": "Status and effect of settlement agreement." },
+      { "sectionNumber": "75", "sectionContent": "Confidentiality." },
+      { "sectionNumber": "76", "sectionContent": "Termination of conciliation proceedings." },
+      { "sectionNumber": "77", "sectionContent": "Resort to arbitral or judicial proceedings." },
+      { "sectionNumber": "78", "sectionContent": "Costs." },
+      { "sectionNumber": "79", "sectionContent": "Deposits." },
+      { "sectionNumber": "80", "sectionContent": "Role of conciliator in other proceedings." },
+      { "sectionNumber": "81", "sectionContent": "Admissibility of evidence in other proceedings." }
+    ]
+  },
+  {
+    "chapterNumber": "IV",
+    "chapterTitle": "Supplementary Provisions",
+    "sections": [
+      { "sectionNumber": "82", "sectionContent": "Power of High Court to make rules." },
+      { "sectionNumber": "83", "sectionContent": "Removal of difficulties." },
+      { "sectionNumber": "84", "sectionContent": "Power to make rules." },
+      { "sectionNumber": "85", "sectionContent": "Repeal and savings." },
+      { "sectionNumber": "86", "sectionContent": "Repeal and saving." },
+      { "sectionNumber": "87", "sectionContent": "Effect of arbitral and related court proceedings commenced prior to 23rd October, 2015." }
+    ]
+  },
+  {
+    "chapterNumber": "Schedules",
+    "chapterTitle": "Schedules and Appendix",
+    "sections": [
+      { "sectionNumber": "Schedule 1", "sectionContent": "THE FIRST SCHEDULE." },
+      { "sectionNumber": "Schedule 2", "sectionContent": "THE SECOND SCHEDULE." },
+      { "sectionNumber": "Schedule 3", "sectionContent": "THE THIRD SCHEDULE." },
+      { "sectionNumber": "Schedule 4", "sectionContent": "THE FOURTH SCHEDULE." },
+      { "sectionNumber": "Schedule 5", "sectionContent": "THE FIFTH SCHEDULE." },
+      { "sectionNumber": "Schedule 6", "sectionContent": "THE SIXTH SCHEDULE." },
+      { "sectionNumber": "Schedule 7", "sectionContent": "THE SEVENTH SCHEDULE." },
+      { "sectionNumber": "Schedule 8", "sectionContent": "THE EIGHTH SCHEDULE." },
+      { "sectionNumber": "Appendix", "sectionContent": "APPENDIX." }
+    ]
+  }
+]
