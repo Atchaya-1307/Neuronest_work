@@ -11,7 +11,7 @@ llm = ChatGroq(
     model="llama-3.1-8b-instant",
     temperature=0.0,
     max_retries=2,
-    api_key=os.environ.get("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"),
+    api_key=os.environ.get("g***********"),
     # other params...
 )
 # 1️⃣ Create embedding model
